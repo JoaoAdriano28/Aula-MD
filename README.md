@@ -36,3 +36,9 @@ function boasVindas(nome) {
 | :--- |:--- |:--- |
 | html | Sim | Ativo |
 | Markdown | Sim | Ativo |
+
+Para fazermos a divisória das tabelas, usamos o **"|"**
+
+Para destacarmos a tabela em negrito, usamos o **"| :---"**
+
+![PC](PC.jpg)
