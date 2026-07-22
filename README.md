@@ -11,7 +11,7 @@ Exemplo de uso da estilização  em itálico *(Palavra de Exemplo)* utiliza-se "
 Exemplo de uso da estilização em tachado ~~(Palavra de Exemplo)~~ utiliza-se "~~".
 
 # Lista de compras
-
+- Mandioca
 - Arroz
 - Feijão
 - Abacate
